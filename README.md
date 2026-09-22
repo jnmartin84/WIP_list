@@ -8,6 +8,7 @@
 
 3) N64Recomp-dc
 - I modified the N64Recomp tooling to emit code more suited to a 32-bit platform. Some tricks to make memory access more efficient. Some HLE for audio and graphics. Several titles playable.
+  - Dr Mario 64 - initial prototype, worst possible game to match to a Dreamcast (offscreen rendering/RTT, active game piece is software rendered over the rest of the screen, other issues)
   - Automobili Lamborghini - almost perfect
   - Extreme G - horrible
   - Bomberman 64 - not great
