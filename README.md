@@ -17,3 +17,6 @@
 
 4) Sega Rally Dreamcast port
 - Status: the very cool dude behind Sega Rally 64 allowed me access to his code and tooling and I have got this running on DC at full-speed with new baked course lighting, dynamic car lighting, working split screen and VMU saving.
+
+5) un-named Nintendo 64 byte-matching decompilation
+- Status:   526/815 functions (64.54%) matched in the first 32 hours 😬
