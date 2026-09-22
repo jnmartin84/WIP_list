@@ -8,6 +8,11 @@
 
 3) N64Recomp-dc
 - I modified the N64Recomp tooling to emit code more suited to a 32-bit platform. Some tricks to make memory access more efficient. Some HLE for audio and graphics. Several titles playable.
+  - Automobili Lamborghini - almost perfect
+  - Extreme G - horrible
+  - Bomberman 64 - not great
+  - Mega Man 64 - slightly better than not great
+  - Aerogauge - decent in qualifying race, not great in grand prix
 
 4) Sega Rally Dreamcast port
 - Status: the very cool dude behind Sega Rally 64 allowed me access to his code and tooling and I have got this running on DC at full-speed with new baked course lighting, dynamic car lighting, working split screen and VMU saving.
