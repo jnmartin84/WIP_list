@@ -1,7 +1,7 @@
 # stuff I'm doing behind the scenes
 
 1) Virtua Fighter 2 PC/Win95 decompilation + Dreamcast port
-- Status: decomp is probably 75%, give or take. Most of the game modes are playable with both model types, high detail backgrounds and ring. Dreamcast Port: playable at 60 FPS with Model 2 models, no shadows.
+- Status: decomp is probably 75%, give or take. Most of the game modes are playable with both model types, high detail backgrounds and ring. Dreamcast Port: playable at 60 FPS with Model 2 models, no shadows, full sound and music.
 
 2) Tetrisphere decompilation + Dreamcast port
 - Status: decomp 100% code byte-match (IDO 5.3). Dreamcast Port: playable with graphics and sound, some bugs. See: https://www.youtube.com/live/2_U8ESwzGeo
