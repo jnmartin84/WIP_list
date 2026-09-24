@@ -19,4 +19,4 @@
 - Status: the very cool dude behind Sega Rally 64 allowed me access to his code and tooling and I have got this running on DC at full-speed with new baked course lighting, dynamic car lighting, working split screen and VMU saving.
 
 5) un-named Nintendo 64 byte-matching decompilation
-- Status:   629/758 functions (82.98%) matched in the first 68 hours 😬
+- Status: decomp 100% code byte-match (IDO 5.3). Staying un-named until I have it running on Dreamcast
