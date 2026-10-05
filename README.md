@@ -39,7 +39,7 @@
 - Status: decomp 100% code byte-match (IDO 5.3). Updated to build with GCC 12, modern libultra, F3DEX2. Also a Dreamcast port because of course there is.
 
 10) Star Soldier : Vanishing Earth decompilation + Dreamcast port
-- 11.5 hours of work
+- 11.5 (‼) hours of work
 - Status: decomp 100% code byte-match (IDO 5.3). Dreamcast Port: playable with graphics and sound.
 
 11) 32x thing
