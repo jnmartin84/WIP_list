@@ -27,16 +27,19 @@
 - 96 hours of work
 - Status: decomp 90% code byte-match, 10% equivalent except for register allocation  (Visual C++ 4.2). Dreamcast Port: playable with graphics and sound. 
 
-7) Beetle Adventure Racing decompilation + Dreamcast port
+7) World Driver Championship Dreamcast port
+- decompilation completed and provided by an external party, full native port without display list interpretation, 60 fps graphics and hardware mixed sound
+
+8) Beetle Adventure Racing decompilation + Dreamcast port
 - 60 hours of work
 - Status: decomp 100% code byte-match (IDO 5.3). Dreamcast Port: playable with graphics and sound.
 
-8) Quake 64 decompilation + modernsdk/F3DEX2 update + Dreamcast port
+9) Quake 64 decompilation + modernsdk/F3DEX2 update + Dreamcast port
 - 16 (!) hours of work
 - Status: decomp 100% code byte-match (IDO 5.3). Updated to build with GCC 12, modern libultra, F3DEX2. Also a Dreamcast port because of course there is.
 
-9) Star Soldier : Vanishing Earth decompilation + Dreamcast port
+10) Star Soldier : Vanishing Earth decompilation + Dreamcast port
 - 11.5 hours of work
 - Status: decomp 100% code byte-match (IDO 5.3). Dreamcast Port: playable with graphics and sound.
 
-10) 32x thing
+11) 32x thing
