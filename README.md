@@ -1,4 +1,4 @@
-# stuff I'm doing behind the scenes as of 2026/10/04
+# stuff I'm doing behind the scenes as of 2026/10/09
 
 1) Virtua Fighter 2 PC/Win95 decompilation + Dreamcast port
 - Status: decomp is probably 75%, give or take. Most of the game modes are playable with both model types, high detail backgrounds and ring. Dreamcast Port: playable at 60 FPS with Model 2 models, no shadows, full sound and music.
