@@ -45,5 +45,8 @@
 11) Knuckles Chaotix C translation + Dreamcast port
 - not emulation, not recompilation, a functional C translation of the original SH2 and 68k code, and an interesting FM synth stand-in using a multidimensional sample bank
 
-12) Burning Rangers decompilation
+12) Star Wars Shadows of the Empire Dreamcast port
+- decompilation completed and provided by an external party
+
+13) Burning Rangers decompilation
 - 100% complete, functional translation of main binary and all overlays, VDP1 + VDP2 "simulation" in fixed-function OpenGL for porting to other legacy platforms (Dreamcast is the main target)
