@@ -42,4 +42,8 @@
 - 11.5 (‼) hours of work
 - Status: decomp 100% code byte-match (IDO 5.3). Dreamcast Port: playable with graphics and sound.
 
-11) 32x thing
+11) Knuckles Chaotix C translation + Dreamcast port
+- not emulation, not recompilation, a functional C translation of the original SH2 and 68k code, and an interesting FM synth stand-in using a multidimensional sample bank
+
+12) Burning Rangers decompilation
+- 100% complete, functional translation of main binary and all overlays, VDP1 + VDP2 "simulation" in fixed-function OpenGL for porting to other legacy platforms (Dreamcast is the main target)
